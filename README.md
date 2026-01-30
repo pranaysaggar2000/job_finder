@@ -2,6 +2,12 @@
 
 Automated job finder using local AI matching and Gemini Flash analysis.
 
+## Why JobSniper AI?
+
+Personalizing your resume for every single job application is cumbersome and time-consuming. Worse, traditional job portals are often skewed by paid promotions, pushing "sponsored" listings from massive companies where applications frequently get ghosted.
+
+**JobSniper AI** flips the script. Instead of guessing, it first identifies the **hot, relevant technologies** currently in demand. It suggests key skills to add to your resume to align with market trends. Then, it finds high-probability opportunities where your resume is already a **star performer**—based purely on vector similarity and AI analysis, not ad spend. The goal is to surface a focused list of jobs where you are statistically likely to be a **top 10 candidate**, saving you time and maximizing your impact.
+
 ## Setup
 
 1.  **Create a virtual environment:**
