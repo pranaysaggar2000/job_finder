@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-jobspy
+duckduckgo-search
+sentence-transformers
+google-generativeai
+pypdf
+python-dotenv
+openpyxl
